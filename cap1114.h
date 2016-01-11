@@ -1,4 +1,4 @@
-/***************************************************
+  /***************************************************
   This is a library for the CAP1114 14-Channel Capacitive Sensor
   These sensors use I2C/SPI to communicate, 2+ pins are required to
   interface.
